@@ -1,0 +1,9 @@
+./flannMatcher /Users/gill/data/LarvalPics/Abalone\ larvae/IMG_1743_small.jpeg /Users/gill/data/LarvalPics/Abalone\ larvae/IMG_1730_small.jpeg
+./flannMatcher /Users/gill/data/LarvalPics/Abalone\ larvae/IMG_1730_small.jpeg /Users/gill/data/LarvalPics/Abalone\ larvae/IMG_1743_small.jpeg
+./flannMatcher /Users/gill/data/LarvalPics/Abalone\ larvae/IMG_1743_small.jpeg /Users/gill/data/LarvalPics/Abalone\ larvae/IMG_1686_small.jpeg
+
+./flannMatcher /Users/gill/data/LarvalPics/Nucella\ larvae/Nucella015_small.jpeg /Users/gill/data/LarvalPics/Nucella\ larvae/Nucella019_small.jpeg
+./flannMatcher /Users/gill/data/LarvalPics/Nucella\ larvae/Nucella015_small.jpeg /Users/gill/data/LarvalPics/Abalone\ larvae/IMG_1743_small.jpeg
+./flannMatcher /Users/gill/data/LarvalPics/Abalone\ larvae/IMG_1743_small.jpeg /Users/gill/data/LarvalPics/Nucella\ larvae/Nucella019_small.jpeg
+
+http://docs.opencv.org/2.4/modules/features2d/doc/features2d.html
